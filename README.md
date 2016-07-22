@@ -5,4 +5,3 @@ This repository contains Automation framework for web using following tools.<br 
 2.Java<br />
 3.TestNG<br />
 4.Cucumber
-5.Ant
